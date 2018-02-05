@@ -1,2 +1,12 @@
 body
-{  background :white}
+{  background :rgb(11, 165, 18);
+color:white;
+font-size: 26 px;
+margin:auto
+}
+p {
+text-align: center;
+font-size: 50px
+
+
+}
