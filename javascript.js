@@ -1,0 +1,1 @@
+alerte ('je suis java script')
